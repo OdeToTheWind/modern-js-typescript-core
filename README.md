@@ -258,7 +258,7 @@ Please follow these steps:
 4. Push to the branch (`git push origin feature/amazing-demo`)
 5. Open a Pull Request
 
-Read the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
+<!-- Read the full guidelines in [CONTRIBUTING.md](CONTRIBUTING.md). -->
 
 ## License
 
